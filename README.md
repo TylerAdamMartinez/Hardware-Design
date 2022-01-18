@@ -1,28 +1,22 @@
-# Hardware Design I
-Part 1 out of 4 part series of workshops for @untrobotics and UNT College of Engineering Maker Space to teach the basic electronics essential for robot building. 
-<br />
-<br />
-List of workshops: 
-<t>
-1. **Hardware Design I** <br />
-2. Hardware Design II  <br />
-3. System Design I   <br />
-4. System Design II <br />
-</t>
+# Hardware Design
+A workshop for @untrobotics and UNT College of Engineering Maker Space to teach the basic electronics essential for robot building. 
 
 ## Required Experience:
 * None 
-## List of needed items: <br/>
+
+## List of needed items:
 
 * Arduino or Raspberry Pi <br />
-![ Arduino ](Needed%20Items/arduino-uno.jpg) 
-![ Raspberry Pi ](Needed%20Items/Raspberry-Pi.jpg)
+<p style="display: flex;">
+  <img src="Needed%20Items/arduino-uno.jpg" alt="Arduino" height="250" width="250" />
+  <img src="Needed%20Items/Raspberry-Pi.jpg" alt="Raspberry Pi" height="250" width="250" />
+</p>
 
 * Breadboard <br />
-![ Breadboard ](Needed%20Items/Breadboard.png)
+<img src="Needed%20Items/Breadboard.png" alt="Breadboard" height="250" width="250" />
 
 * Jumper Wires <br />
-![ Jumper Wires ](Needed%20Items/Jumper-Wires.jpg)
+<img src="Needed%20Items/Jumper-Wires.jpg" alt="Jumper Wires" height="250" width="250" />
 
 * L293D Dual H Bridge IC <br />
-![ L293D ](Needed%20Items/L293D-IC.jpg)
+<img src="Needed%20Items/L293D-IC.jpg" alt="L293D" height="250" width="250" />
