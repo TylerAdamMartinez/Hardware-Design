@@ -1,5 +1,12 @@
-# Hardware Design
+# <p align="center"> Hardware Design
+
+<p align="center" style="display: flex;" >
+<img src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.hardware-design" />
+<img src="https://img.shields.io/npm/l/express" /> </p>
+
 A workshop for @untrobotics and UNT College of Engineering Maker Space to teach the basic electronics essential for robot building. 
+
+
 
 ## Required Experience:
 * None 
