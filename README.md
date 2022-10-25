@@ -4,7 +4,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=tyleradammartinez.hardware-design" />
 <img src="https://img.shields.io/npm/l/express" /> </p>
 
-A @untrobotics workshop designed to teach the basic electronics essential for robot building. 
+This repository contains all the material for the UNT Robotics Hardware Design/Embedded Programming workshop.
 
 ## Required Experience:
 * None 
