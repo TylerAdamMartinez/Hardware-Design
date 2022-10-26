@@ -10,7 +10,7 @@
 `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
 8. Click the OK button to save the setting.
 
-![here]()
+<img src="../Assets/ESP32-README/preferences-menu.png" alt="Preferences Menu" height="400" width="700" />
 
 ---
 Next, you will need to use the new entry to actually add the ESPO32 boards to your Arduino IDE. You do that by following this procedure:
@@ -23,4 +23,4 @@ Next, you will need to use the new entry to actually add the ESPO32 boards to yo
 6. You should see an entry for “esp32 by Espressif Systems”. Highlight this entry and click on the Install button.
 7. This will install the ESP32 boards into your Arduino IDE
 
-![here]()
+<img src="../Assets/ESP32-README/boards-manager-menu.png" alt="Boards Manager" height="400" width="700" />
